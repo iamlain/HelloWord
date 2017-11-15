@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlycoTab/FlycoTab.iml" filepath="$PROJECT_DIR$/FlycoTab/FlycoTab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Qianqi.iml" filepath="$PROJECT_DIR$/Qianqi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylib/mylib.iml" filepath="$PROJECT_DIR$/mylib/mylib.iml" />
+    </modules>
+  </component>
+</project>

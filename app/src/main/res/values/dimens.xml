@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="textsize_v0">10sp</dimen><!--最最小-->
+    <dimen name="textsize_v1">12sp</dimen><!--最小-->
+    <dimen name="textsize_v2">14sp</dimen><!--小-->
+    <dimen name="textsize_v3">16sp</dimen><!--中-->
+    <dimen name="textsize_v4">18sp</dimen><!--大-->
+    <dimen name="textsize_v5">20sp</dimen><!--最大-->
+</resources>
